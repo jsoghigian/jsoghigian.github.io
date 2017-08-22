@@ -1,8 +1,7 @@
 <header class="site-header" role="banner">
-
+<img src="https://raw.githubusercontent.com/jsoghigian/jsoghigian.github.io/master/mosquito.png" alt="mosquito" style="width:39px;height:47px;">
   <div class="wrapper">
     {% assign default_paths = site.pages | map: "path" %}
-    <img src="https://raw.githubusercontent.com/jsoghigian/jsoghigian.github.io/master/mosquito.png" alt="mosquito" style="width:39px;height:47px;">
     {% assign page_paths = site.header_pages | default: default_paths %}
     <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
   
