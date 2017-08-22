@@ -3,6 +3,7 @@
   <div class="wrapper">
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
+    <img src="https://raw.githubusercontent.com/jsoghigian/jsoghigian.github.io/master/mosquito.png" alt="mosquito" style="width:39px;height:47px;">
     <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
   
     {% if page_paths %}
