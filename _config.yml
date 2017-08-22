@@ -23,6 +23,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jsoghigian
 researchgate_username: John_Soghigian
+gs_username: John Soghigian #just for show - edit html file for URL
 show_excerpts: true
 
 # Build settings
