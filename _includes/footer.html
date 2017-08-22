@@ -38,6 +38,11 @@
             {% include icon-rg.html username=site.researchgate_username %}
           </li>
           {% endif %}
+                    {% if site.gs_username %}
+          <li>
+            {% include icon-gs.html username=site.gs_username %}
+          </li>
+          {% endif %}
         </ul>
       </div>
 
