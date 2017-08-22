@@ -26,7 +26,7 @@ github_username:  jsoghigian
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-Minima
+theme: minima
 plugins:
   - jekyll-feed
 
