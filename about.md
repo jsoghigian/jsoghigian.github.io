@@ -8,7 +8,7 @@ I'm an evolutionary ecologist with a passion for research and education. I have 
 <figure>
     <img src='https://github.com/jsoghigian/jsoghigian.github.io/blob/master/asco_bar.jpg?raw=true' alt='missing' />
     <figcaption>TEST</figcaption>
-</figure>
+</figure>  
 As a graduate student, I had the opportunity to engage in a variety of mentorship activities, from those within the classroom, to supervising undergraduate and Masters students undertaking independent projects.  It was in this role as a faciltator for discovery that I felt the most rewarded.
 
 Outside of academia, I enjoy the outdoors and am an avid hiker and camper.
