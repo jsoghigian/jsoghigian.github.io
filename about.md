@@ -4,6 +4,8 @@ title: About John
 permalink: /about/
 ---
 
-Fundamentally, my research is interested in uncovering insight into the abundance and diversity of disease vectors through methods in ecology and evolution. Most often, my research questions involve container-dwelling mosquitoes.  Container-dwelling mosquitoes utilize natural or domestic temporary water containers, such as water-filled plant parts or buckets. These mosquitoes are of critical importance, as they are some of the world's deadliest disease vectors, and among the most successful invasive species in history.  Mosquitoes such as *Aedes aegypti* and *Aedes albopictus* have been transported globally due to human trade.
+I'm an evolutionary ecologist with a passion for research and education. I have a passion for creating and consuming knowledge, and I love to share my interests in evolution and ecology with others.  Most of my studies are focused on mosquitoes, but unlike many entomologists, I don't study mosquitoes because I like them.  I respect their immense public health consequence, and believe they offer an excellent system to evaluate hypotheses in ecology and evolution.
 
-I'm also interested in *Ascogregarina*, a genus of parasites found exclusively in container mosquitoes.  *Ascogregarina* develop entirely in larval phases of the mosquito and are ubiqutous with hosts.
+As a graduate student, I had the opportunity to engage in a variety of mentorship activities, from those within the classroom, to supervising undergraduate and Masters students undertaking independent projects.  It was in this role as a faciltator for discovery that I felt the most rewarded.
+
+Outside of academia, I enjoy the outdoors and am an avid hiker and camper.
