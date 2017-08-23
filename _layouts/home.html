@@ -18,7 +18,7 @@ layout: default
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h3>
         {% if site.show_excerpts %}
-          {{ post.excerpt | truncatewords:75 }}
+          {{ post.excerpt | truncatewords:25 }}
         {% endif %}
       </li>
     {% endfor %}
