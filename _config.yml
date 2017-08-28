@@ -30,8 +30,6 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-gems:
-  - jekyll-octicons
 
 
 # Exclude from processing.
