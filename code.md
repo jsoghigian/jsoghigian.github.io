@@ -10,9 +10,9 @@ I will use this section to provide snipets of code or files to download that hav
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="5cm" height="4cm" version="1.1"
      xmlns="http://www.w3.org/2000/svg" xmlns:xlink= "http://www.w3.org/1999/xlink">
-	<image xlink:href="
-https://github.com/jsoghigian/jsoghigian.github.io/blob/master/Download_alt_font_awesome.svg" x="0" y="0" height="50px" width="50px"/>
+	<image xlink:href="https://github.com/jsoghigian/jsoghigian.github.io/blob/master/Download_alt_font_awesome.svg" x="0" y="0" height="50px" width="50px"/>
 </svg>
+
 
 ##### Phylogenetically Informed MANOVA
 
