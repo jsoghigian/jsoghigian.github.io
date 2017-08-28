@@ -6,6 +6,7 @@ permalink: /code/
 
 I will use this section to provide snipets of code or files to download that have been part of my various analyses.
 
+{% octicon desktop-download %}
 ##### Phylogenetically Informed MANOVA
 
 ToCome
