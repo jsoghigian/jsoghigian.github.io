@@ -11,11 +11,11 @@ permalink: /publications/
 
 **Soghigian, J.**, Ridge, G.E., Stafford, K.C. and Molaei, G., 2017. The first evidence of nanism in Ixodes (Ixodes) scapularis (Acari: Ixodidae), found parasitizing a human host. Journal of Medical Entomology. Online pre-print.
 
-Steven, B., Hesse, C., **Soghigian, J.** and Dunbar, J., 2017. Simulated rRNA/DNA ratios show potential to misclassify active populations as dormant. Applied and Environmental Microbiology, 83(11):e00696-17.
+Steven, B., Hesse, C., **Soghigian, J.** and Dunbar, J., 2017. Simulated rRNA/DNA ratios show potential to misclassify active populations as dormant. Applied and Environmental Microbiology, 83(11):e00696-17. ([PDF](http://aem.asm.org/content/83/11/e00696-17.full.pdf))
 
-Steenwyk, J. L.,**Soghigian, J.**, Perfect, J.R., and Gibbons. J.G. 2016. Copy number variation contributes to cryptic genetic variation in outbreak lineages of Cryptococcus gattii from the North American Pacific Northwest. BMC Genomics. 17:700. 
+Steenwyk, J. L.,**Soghigian, J.**, Perfect, J.R., and Gibbons. J.G. 2016. Copy number variation contributes to cryptic genetic variation in outbreak lineages of Cryptococcus gattii from the North American Pacific Northwest. BMC Genomics. 17:700. ([PDF](https://bmcgenomics.biomedcentral.com/track/pdf/10.1186/s12864-016-3044-0?site=bmcgenomics.biomedcentral.com)
 
 **Soghigian, J.**, Gibbs, K., Stanton, A., Kaiser, K., and Livdahl, T. 2014. Interspecific attraction, sexual 
-harassment, and feeding inhibition between two invasive Dengue vectors. Env. Health Insights, 8(Suppl 2):61-6.
+harassment, and feeding inhibition between two invasive Dengue vectors. Env. Health Insights, 8(Suppl 2):61-6. ([PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4285075/))
 
 Erthal, J., **Soghigian, J.** and Livdahl, T. 2012. Life cycle completion of parasite Ascogregarina taiwanensis (Apicomplexa: Lecudinidae) in non-native host Ochlerotatus japonicus (Diptera:Culicidae). Journal of Medical Entomology, 49:1109-17. ([PDF](https://www.researchgate.net/publication/231740034_Life_Cycle_Completion_of_Parasite_Ascogregarina_taiwanensis_Apicomplexa_Lecudinidae_in_Non-Native_Host_Ochlerotatus_japonicus_Diptera_Culicidae))
