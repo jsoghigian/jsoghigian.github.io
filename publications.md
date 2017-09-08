@@ -18,4 +18,4 @@ Steenwyk, J. L.,**Soghigian, J.**, Perfect, J.R., and Gibbons. J.G. 2016. Copy n
 **Soghigian, J.**, Gibbs, K., Stanton, A., Kaiser, K., and Livdahl, T. 2014. Interspecific attraction, sexual 
 harassment, and feeding inhibition between two invasive Dengue vectors. Env. Health Insights, 8(Suppl 2):61-6.
 
-Erthal, J., **Soghigian, J.** and Livdahl, T. 2012. Life cycle completion of parasite Ascogregarina taiwanensis (Apicomplexa: Lecudinidae) in non-native host Ochlerotatus japonicus (Diptera:Culicidae). Journal of . Medical Entomology, 49:1109-17.
+Erthal, J., **Soghigian, J.** and Livdahl, T. 2012. Life cycle completion of parasite Ascogregarina taiwanensis (Apicomplexa: Lecudinidae) in non-native host Ochlerotatus japonicus (Diptera:Culicidae). Journal of Medical Entomology, 49:1109-17. ([PDF](https://www.researchgate.net/publication/231740034_Life_Cycle_Completion_of_Parasite_Ascogregarina_taiwanensis_Apicomplexa_Lecudinidae_in_Non-Native_Host_Ochlerotatus_japonicus_Diptera_Culicidae))
