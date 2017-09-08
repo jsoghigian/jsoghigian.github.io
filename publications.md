@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 **Soghigian, J.**, Andreadis, T. G., and Livdahl, T.P., Submitted. From ground pools to treeholes: convergent evolution of habitat and phenotype in Aedes mosquitoes.
 
-**Soghigian, J.** and Livdahl, T.P. In press Differential response to mosquito host sex and parasite dosage suggest mixed dispersal strategies in the parasite Ascogregarina taiwanensis. PloS ONE
+**Soghigian, J.** and Livdahl, T.P. In press. Differential response to mosquito host sex and parasite dosage suggest mixed dispersal strategies in the parasite Ascogregarina taiwanensis. PloS ONE
 
 **Soghigian, J.**, Valsdottir, L.R., and Livdahl, T.P. 2017. A parasite's modification of host behavior reduces predation on its host. Ecology and Evolution, 7:1453–1461.([PDF](http://onlinelibrary.wiley.com/doi/10.1002/ece3.2748/full))
 
