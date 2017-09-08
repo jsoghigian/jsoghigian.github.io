@@ -5,11 +5,11 @@ permalink: /publications/
 ---
 **Soghigian, J.**, Andreadis, T. G., and Livdahl, T.P., Submitted. From ground pools to treeholes: convergent evolution of habitat and phenotype in Aedes mosquitoes.
 
-**Soghigian, J.** and Livdahl, T.P. In review. Differential response to mosquito host sex and parasite dosage suggest mixed dispersal strategies in the parasite Ascogregarina taiwanensis. PloS ONE
+**Soghigian, J.** and Livdahl, T.P. In press Differential response to mosquito host sex and parasite dosage suggest mixed dispersal strategies in the parasite Ascogregarina taiwanensis. PloS ONE
 
-**Soghigian, J.**, Valsdottir, L.R., and Livdahl, T.P. 2017. A parasite's modification of host behavior reduces predation on its host. Ecology and Evolution, 7:1453–1461. 
+**Soghigian, J.**, Valsdottir, L.R., and Livdahl, T.P. 2017. A parasite's modification of host behavior reduces predation on its host. Ecology and Evolution, 7:1453–1461.([PDF](http://onlinelibrary.wiley.com/doi/10.1002/ece3.2748/full))
 
-**Soghigian, J.**, Ridge, G.E., Stafford, K.C. and Molaei, G., 2017. The first evidence of nanism in Ixodes (Ixodes) scapularis (Acari: Ixodidae), found parasitizing a human host. Journal of Medical Entomology. Online pre-print.
+**Soghigian, J.**, Ridge, G.E., Stafford, K.C. and Molaei, G., 2017. The first evidence of nanism in Ixodes (Ixodes) scapularis (Acari: Ixodidae), found parasitizing a human host. Journal of Medical Entomology. Online pre-print. ([PDF](https://www.researchgate.net/publication/317413478_The_First_Evidence_of_Nanism_in_Ixodes_Ixodes_scapularis_Acari_Ixodidae_Found_Parasitizing_a_Human_Host))
 
 Steven, B., Hesse, C., **Soghigian, J.** and Dunbar, J., 2017. Simulated rRNA/DNA ratios show potential to misclassify active populations as dormant. Applied and Environmental Microbiology, 83(11):e00696-17. ([PDF](http://aem.asm.org/content/83/11/e00696-17.full.pdf))
 
