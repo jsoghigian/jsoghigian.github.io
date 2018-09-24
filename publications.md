@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-Stokes, G.Y., DiCicco, E.N., Moore, T.J., Cheng, V.C., Wheeler, K. Y., **Soghigian, J.**, Barber, R.P., and Edgerly, J.S., 2018. Structural and wetting properties of nature's finest silks (order Embioptera). Royal Society Open Sciene, 5: 180893. http://doi.org/10.1098/rsos.180893 ([PDF](http://rsos.royalsocietypublishing.org/content/royopensci/5/9/180893.full.pdf))
+Stokes, G.Y., DiCicco, E.N., Moore, T.J., Cheng, V.C., Wheeler, K. Y., **Soghigian, J.**, Barber, R.P., and Edgerly, J.S., 2018. Structural and wetting properties of nature's finest silks (order Embioptera). Royal Society Open Science, 5: 180893. http://doi.org/10.1098/rsos.180893 ([PDF](http://rsos.royalsocietypublishing.org/content/royopensci/5/9/180893.full.pdf))
 
 **Soghigian, J.**, Andreadis, T.G., and Molaei, G., 2018. Population genomics of Culiseta melanura, the principal vector of Eastern equine encephalitis virus in the United States. PLoS Neglected Tropical Diseases, 12(8): e0006698. https://doi.org/10.1371/journal.pntd.0006698 ([PDF](https://journals.plos.org/plosntds/article/file?id=10.1371/journal.pntd.0006698&type=printable))
 
