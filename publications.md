@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-Bova, J., **Soghigian, J.**, Paulson, S., 2019.  The Prediapause Stage of Aedes japonicus japonicus and the Evolution of Embryonic Diapause in Aedini. Insects, 10, 222. https://doi.org/10.3390/insects10080222 ([PDF](https://www.mdpi.com/2075-4450/10/8/222/pdf))
+Bova, J., **Soghigian, J.**, Paulson, S., 2019.  The prediapause stage of *Aedes japonicus japonicus* and the evolution of embryonic diapause in Aedini. Insects, 10, 222. https://doi.org/10.3390/insects10080222 ([PDF](https://www.mdpi.com/2075-4450/10/8/222/pdf))
 
 Stokes, G.Y., DiCicco, E.N., Moore, T.J., Cheng, V.C., Wheeler, K. Y., **Soghigian, J.**, Barber, R.P., and Edgerly, J.S., 2018. Structural and wetting properties of nature's finest silks (order Embioptera). Royal Society Open Science, 5: 180893. http://doi.org/10.1098/rsos.180893 ([PDF](http://rsos.royalsocietypublishing.org/content/royopensci/5/9/180893.full.pdf))
 
